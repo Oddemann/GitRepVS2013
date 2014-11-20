@@ -41,5 +41,9 @@ function wmcods_Emergency_Login_func( $atts , $content = null ) {
 
 }
 
-
+add_shortcode( 'wmcods_Emergency_Logout', 'wmcods_Emergency_Logout_func' );
+function wmcods_Emergency_Logout_func( $atts , $content = null ) {
+    
+ 
+}
 ?>
