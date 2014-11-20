@@ -1,0 +1,11 @@
+   	 0 =  
+     1 = Sertifikat 
+	 2 = Epikrise 
+	 3 = Forsikring 
+	 4 = Journal 
+	 5 = Testamente 
+	 6 = Pass 
+	 7 = Resept 
+	 8 = Reisedokument 
+	 9 = Røntgen 
+	 10 = Annet 

@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec3cd3c9-4956-43c6-911d-503a24e1a18a" name="Default" comment="" />
+    <ignored path="wmc.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="wmc" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="81" column="47" selection-start="3201" selection-end="3208" vertical-scroll-proportion="3.2692308" vertical-offset="1377" max-vertical-offset="9503">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gammel - functions.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gammel - functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="316" column="58" selection-start="10962" selection-end="10962" vertical-scroll-proportion="-7.269231" vertical-offset="5098" max-vertical-offset="6783">
+              <folding>
+                <marker date="1408701538292" expanded="true" signature="5374:5671" placeholder="SELECT mm_us..mm_user_data..." />
+                <marker date="1408701538292" expanded="true" signature="5999:6175" placeholder="..." />
+                <marker date="1408701538292" expanded="true" signature="6007:6167" placeholder="..." />
+                <marker date="1408701538292" expanded="true" signature="7325:7399" placeholder="SELECT count..wmc_country..." />
+                <marker date="1408701538292" expanded="true" signature="8661:9052" placeholder="SELECT ma.wm..." />
+                <marker date="1408701538292" expanded="true" signature="10460:10959" placeholder="SELECT mp.te..wmc_member_medication_product..." />
+                <marker date="1408701538292" expanded="true" signature="12801:13212" placeholder="SELECT md.wm..wmc_member_diagnosis..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="insurance_crud.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/includes/insurance_crud.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="61" selection-start="719" selection-end="719" vertical-scroll-proportion="-0.25233644" vertical-offset="810" max-vertical-offset="4185">
+              <folding>
+                <marker date="1409650737224" expanded="true" signature="188:239" placeholder="SELECT ins_t..wmc_ins_type..." />
+                <marker date="1409650737224" expanded="true" signature="301:315" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kapowlib.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/kapowlib.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="10" selection-start="1521" selection-end="1521" vertical-scroll-proportion="-4.6538463" vertical-offset="712" max-vertical-offset="1581">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kapow_sms.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/kapow_sms.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="56" column="2" selection-start="1583" selection-end="1583" vertical-scroll-proportion="-35.384617" vertical-offset="32" max-vertical-offset="1054">
+              <folding>
+                <marker date="1409577589156" expanded="true" signature="503:512" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="D:/data/wmc/wmc/functions.php" />
+        <option value="$PROJECT_DIR$/Forsikring.php" />
+        <option value="$PROJECT_DIR$/insurance_reg.php" />
+        <option value="$PROJECT_DIR$/functions.php" />
+        <option value="$PROJECT_DIR$/includes/kapow_sms.php" />
+        <option value="$PROJECT_DIR$/includes/insurance_crud.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wmc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wmc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wmc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/includes/insurance_crud.php" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\D-programmer\wamp\www\wmc\wp-content\themes\wmc\includes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.functions.php">
+    <configuration default="false" name="functions.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/functions.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.functions.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.functions.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec3cd3c9-4956-43c6-911d-503a24e1a18a" name="Default" comment="" />
+      <created>1408536469384</created>
+      <updated>1408536469384</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0109375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32827735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32827735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0109375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/functions.php</url>
+          <line>106</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="47" selection-start="3201" selection-end="3208" vertical-scroll-proportion="0.0" vertical-offset="1377" max-vertical-offset="9588">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gammel - functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="374" column="60" selection-start="13712" selection-end="13712" vertical-scroll-proportion="0.0" vertical-offset="6358" max-vertical-offset="6868">
+          <folding>
+            <marker date="1408701538292" expanded="true" signature="5374:5671" placeholder="SELECT mm_us..mm_user_data..." />
+            <marker date="1408701538292" expanded="true" signature="5999:6175" placeholder="..." />
+            <marker date="1408701538292" expanded="true" signature="6007:6167" placeholder="..." />
+            <marker date="1408701538292" expanded="true" signature="7325:7399" placeholder="SELECT count..wmc_country..." />
+            <marker date="1408701538292" expanded="true" signature="8661:9052" placeholder="SELECT ma.wm..." />
+            <marker date="1408701538292" expanded="true" signature="10460:10959" placeholder="SELECT mp.te..wmc_member_medication_product..." />
+            <marker date="1408701538292" expanded="true" signature="12801:13212" placeholder="SELECT md.wm..wmc_member_diagnosis..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/insurance_crud.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="154" column="2" selection-start="4859" selection-end="4859" vertical-scroll-proportion="0.0" vertical-offset="2618" max-vertical-offset="2720">
+          <folding>
+            <marker date="1409650737224" expanded="true" signature="188:239" placeholder="SELECT ins_t..wmc_ins_type..." />
+            <marker date="1409650737224" expanded="true" signature="301:315" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/kapowlib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="10" selection-start="1521" selection-end="1521" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="1649">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/kapow_sms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="41" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1054">
+          <folding>
+            <marker date="1409577589156" expanded="true" signature="503:512" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="678" column="74" selection-start="23348" selection-end="23354" vertical-scroll-proportion="0.0" vertical-offset="11526" max-vertical-offset="13498">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gammel - functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="391" column="0" selection-start="0" selection-end="14300" vertical-scroll-proportion="0.0" vertical-offset="6647" max-vertical-offset="6783">
+          <folding>
+            <marker date="1408701538292" expanded="true" signature="5374:5671" placeholder="SELECT mm_us..mm_user_data..." />
+            <marker date="1408701538292" expanded="true" signature="5999:6175" placeholder="..." />
+            <marker date="1408701538292" expanded="true" signature="6007:6167" placeholder="..." />
+            <marker date="1408701538292" expanded="true" signature="7325:7399" placeholder="SELECT count..wmc_country..." />
+            <marker date="1408701538292" expanded="true" signature="8661:9052" placeholder="SELECT ma.wm..." />
+            <marker date="1408701538292" expanded="true" signature="10460:10959" placeholder="SELECT mp.te..wmc_member_medication_product..." />
+            <marker date="1408701538292" expanded="true" signature="12801:13212" placeholder="SELECT md.wm..wmc_member_diagnosis..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/insurance_crud.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="28" selection-start="4211" selection-end="4211" vertical-scroll-proportion="0.0" vertical-offset="2074" max-vertical-offset="2703">
+          <folding>
+            <marker date="1409650737224" expanded="true" signature="188:239" placeholder="SELECT ins_t..wmc_ins_type..." />
+            <marker date="1409650737224" expanded="true" signature="301:315" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="143" column="30" selection-start="4522" selection-end="4522" vertical-scroll-proportion="0.0" vertical-offset="2431" max-vertical-offset="6783">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="75" selection-start="828" selection-end="829" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="13430">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="47" selection-start="1853" selection-end="1853" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13515">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/insurance_crud.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="63" selection-start="2637" selection-end="2644" vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="2618" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="556" column="50" selection-start="18676" selection-end="18676" vertical-scroll-proportion="0.0" vertical-offset="9452" max-vertical-offset="13430">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="525" column="24" selection-start="17474" selection-end="17489" vertical-scroll-proportion="0.0" vertical-offset="8925" max-vertical-offset="13481">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/data/wmc/wmc/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="550" column="0" selection-start="6" selection-end="18243" vertical-scroll-proportion="0.0" vertical-offset="8832" max-vertical-offset="9452" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forsikring.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://D:/data/wmc/wmc/template-my-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="22" selection-start="925" selection-end="925" vertical-scroll-proportion="0.720339" vertical-offset="0" max-vertical-offset="708" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forsikring.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.03912543" vertical-offset="0" max-vertical-offset="869" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/json.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="14" selection-start="852" selection-end="852" vertical-scroll-proportion="-5.073648" vertical-offset="5250" max-vertical-offset="6467" />
+      </provider>
+    </entry>
+    <entry file="file://D:/data/wmc/wmc/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="178" column="17" selection-start="5604" selection-end="5605" vertical-scroll-proportion="3.6604216" vertical-offset="680" max-vertical-offset="12122" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/_superglobals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="22" selection-start="3896" selection-end="3896" vertical-scroll-proportion="0.20598389" vertical-offset="1963" max-vertical-offset="3944">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/sectional.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="339" selection-end="339" vertical-scroll-proportion="0.17094973" vertical-offset="0" max-vertical-offset="3009">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/tables.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="221" column="42" selection-start="4362" selection-end="4362" vertical-scroll-proportion="0.35935396" vertical-offset="3490" max-vertical-offset="4335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Packages/microsoft.windowscommunicationsapps_8wekyb3d8bbwe/LocalState/LiveComm/c0c9981563635feb/120712-0049/Att/200042be/insurance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="10" selection-start="1314" selection-end="1418" vertical-scroll-proportion="0.53125" vertical-offset="204" max-vertical-offset="2958" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/kapow_sms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="2" selection-start="1583" selection-end="1583" vertical-scroll-proportion="-35.384617" vertical-offset="32" max-vertical-offset="1054">
+          <folding>
+            <marker date="1409577589156" expanded="true" signature="503:512" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="23" selection-start="3392" selection-end="3392" vertical-scroll-proportion="0.56089383" vertical-offset="1742" max-vertical-offset="8228">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="47" selection-start="3201" selection-end="3208" vertical-scroll-proportion="3.2692308" vertical-offset="1377" max-vertical-offset="9503">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gammel - functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="316" column="58" selection-start="10962" selection-end="10962" vertical-scroll-proportion="-7.269231" vertical-offset="5098" max-vertical-offset="6783">
+          <folding>
+            <marker date="1408701538292" expanded="true" signature="5374:5671" placeholder="SELECT mm_us..mm_user_data..." />
+            <marker date="1408701538292" expanded="true" signature="5999:6175" placeholder="..." />
+            <marker date="1408701538292" expanded="true" signature="6007:6167" placeholder="..." />
+            <marker date="1408701538292" expanded="true" signature="7325:7399" placeholder="SELECT count..wmc_country..." />
+            <marker date="1408701538292" expanded="true" signature="8661:9052" placeholder="SELECT ma.wm..." />
+            <marker date="1408701538292" expanded="true" signature="10460:10959" placeholder="SELECT mp.te..wmc_member_medication_product..." />
+            <marker date="1408701538292" expanded="true" signature="12801:13212" placeholder="SELECT md.wm..wmc_member_diagnosis..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/kapowlib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="10" selection-start="1521" selection-end="1521" vertical-scroll-proportion="-4.6538463" vertical-offset="712" max-vertical-offset="1581">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/insurance_crud.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="61" selection-start="719" selection-end="719" vertical-scroll-proportion="-0.25233644" vertical-offset="810" max-vertical-offset="4185">
+          <folding>
+            <marker date="1409650737224" expanded="true" signature="188:239" placeholder="SELECT ins_t..wmc_ins_type..." />
+            <marker date="1409650737224" expanded="true" signature="301:315" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
